@@ -1,0 +1,17 @@
+{
+    "name": "somephp/jsonrequest",
+    "description": "Create and send a RESTful JSON response.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tyler Gillispie"
+        }
+    ],
+    "require": {
+        "php": "^4.0"
+    },
+		"autoload": {
+			"classmap": ["src"]
+		}
+}
