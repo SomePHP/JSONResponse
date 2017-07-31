@@ -1,5 +1,5 @@
 {
-    "name": "somephp/jsonrequest",
+    "name": "somephp/jsonresponse",
     "description": "Create and send a RESTful JSON response.",
     "type": "project",
     "license": "MIT",
