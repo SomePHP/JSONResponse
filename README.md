@@ -1,4 +1,4 @@
-Return a RESTFull JSON response. The response body contains 4 properties.
+Return a RESTFull JSON response. The response body contains 3 properties.
  * data: request results.
  * error: error information.  ex.[{code: 555, msg: 'No results Found'}]
  * meta: meta information about the response.
